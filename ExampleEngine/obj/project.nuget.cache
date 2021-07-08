@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GvRanPA/5Y0aVU0UruK2+Zcu3WDcLwk1xMoVe5SDrgErNF1ROdRTKBmprq3z/ATin0lu5k9J1bf1xzzxnhxJWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clsul\\source\\repos\\ExampleProject\\ExampleEngine\\ExampleEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clsul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\clsul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

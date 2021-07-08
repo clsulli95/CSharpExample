@@ -1,0 +1,13 @@
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\obj\Debug\ExampleGUI.csprojAssemblyReference.cache
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\obj\Debug\ExampleGUI.ExampleGUI.resources
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\obj\Debug\ExampleGUI.Properties.Resources.resources
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\obj\Debug\ExampleGUI.csproj.GenerateResource.cache
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\obj\Debug\ExampleGUI.csproj.CoreCompileInputs.cache
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\bin\Debug\ExampleGUI.exe.config
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\bin\Debug\ExampleGUI.exe
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\bin\Debug\ExampleGUI.pdb
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\bin\Debug\ExampleEngine.dll
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\bin\Debug\ExampleEngine.pdb
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\obj\Debug\ExampleGUI.csproj.CopyComplete
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\obj\Debug\ExampleGUI.exe
+C:\Users\clsul\source\repos\ExampleProject\ExampleGUI\obj\Debug\ExampleGUI.pdb

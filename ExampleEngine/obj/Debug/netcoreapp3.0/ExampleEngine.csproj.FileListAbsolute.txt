@@ -1,0 +1,9 @@
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\bin\Debug\netcoreapp3.0\ExampleEngine.deps.json
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\bin\Debug\netcoreapp3.0\ExampleEngine.dll
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\bin\Debug\netcoreapp3.0\ExampleEngine.pdb
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\obj\Debug\netcoreapp3.0\ExampleEngine.csprojAssemblyReference.cache
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\obj\Debug\netcoreapp3.0\ExampleEngine.csproj.CoreCompileInputs.cache
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\obj\Debug\netcoreapp3.0\ExampleEngine.AssemblyInfoInputs.cache
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\obj\Debug\netcoreapp3.0\ExampleEngine.AssemblyInfo.cs
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\obj\Debug\netcoreapp3.0\ExampleEngine.dll
+C:\Users\clsul\source\repos\ExampleProject\ExampleEngine\obj\Debug\netcoreapp3.0\ExampleEngine.pdb
